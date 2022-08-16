@@ -10,7 +10,6 @@ Projects:
 - [Matchmask](https://github.com/JakeWnuk/matchmask) - Go tool that matches words to Hashcat masks
 - [Pi-HoleBlocklist](https://github.com/JakeWnuk/Pi-holeBlockList) - Aggregates Pi-hole Blocklists with GitHub Actions
 - [PwdStat](https://github.com/JakeWnuk/PwdStat) - Python tool for identifying systemtic password usage and analyzing samples
-- [Qu](https://github.com/JakeWnuk/qu) - Go tool designed to simplify workflows to make them easy to share, replicate, and automate
 - [SickNerd](https://github.com/JakeWnuk/SickNerd) - Python CLI tool for Google Dorking with the ability to fetch and filter dorks from GHDB and search multiple domain
 - [Submask](https://github.com/JakeWnuk/submask) - Go tool that subsitutes tokens in wordlists using Hashcat masks
 
