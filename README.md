@@ -5,7 +5,6 @@ Projects:
 - [Gutenwords](https://github.com/JakeWnuk/Gutenwords) - Python tool created to scrape Project Gutenburg for hash cracking
 - [HIBP-578M](https://github.com/JakeWnuk/HIBP-578M) - Hash cracking rules, masks, and tokens from cracking over half a billion passwords
 - [Harp](https://github.com/JakeWnuk/Harp) - Python CLI tool for passive and active ARP discovery
-- [HashmobCLI](https://github.com/JakeWnuk/HashmobCLI) - Go CLI interface for Hashmob API
 - [HashtopoCLI](https://github.com/JakeWnuk/HashtopoCLI) - Python CLI interface for Hashtopolis API
 - [Maskcat](https://github.com/JakeWnuk/maskcat) - Golang utility tool for Hashcat Masks and Password Cracking
 - [Pi-HoleBlocklist](https://github.com/JakeWnuk/Pi-holeBlockList) - Aggregates Pi-hole Blocklists with GitHub Actions
