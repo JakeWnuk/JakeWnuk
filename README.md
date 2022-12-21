@@ -1,7 +1,6 @@
 Projects:
 - [920mPasswordMasks](https://github.com/JakeWnuk/920mPasswordMasks) - Hashcat password masks from 920 million breach passwords
 - [Dotfiles](https://github.com/JakeWnuk/Dotfiles) - Bash installer to set up dotfiles and a custom environment locally and in Docker
-- [Gutenwords](https://github.com/JakeWnuk/Gutenwords) - Python tool created to scrape Project Gutenburg for hash cracking
 - [HIBP-578M](https://github.com/JakeWnuk/HIBP-578M) - Hash cracking rules, masks, and tokens from cracking over half a billion passwords
 - [Harp](https://github.com/JakeWnuk/Harp) - Python CLI tool for passive and active ARP discovery
 - [HashtopoCLI](https://github.com/JakeWnuk/HashtopoCLI) - Python CLI interface for Hashtopolis API
