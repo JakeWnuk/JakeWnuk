@@ -1,6 +1,5 @@
 Projects:
 - [920mPasswordMasks](https://github.com/JakeWnuk/920mPasswordMasks) - Hashcat password masks from 920 million breach passwords
-- [Docker-Bloodhound](https://github.com/JakeWnuk/Docker-BloodHound) - Container running everything needed to start Bloodhound with additional custom queries and configuration
 - [Dotfiles](https://github.com/JakeWnuk/Dotfiles) - Bash installer to set up dotfiles and a custom environment locally and in Docker
 - [Gutenwords](https://github.com/JakeWnuk/Gutenwords) - Python tool created to scrape Project Gutenburg for hash cracking
 - [HIBP-578M](https://github.com/JakeWnuk/HIBP-578M) - Hash cracking rules, masks, and tokens from cracking over half a billion passwords
