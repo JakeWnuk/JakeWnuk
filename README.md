@@ -1,5 +1,6 @@
 Projects:
 - [920mPasswordMasks](https://github.com/JakeWnuk/920mPasswordMasks) - Hashcat password masks from 920 million breach passwords
+- [Dk-hc](https://github.com/JakeWnuk/dk-hc) - Golang Hashcat wrapper made for containerized cracking.
 - [Dotfiles](https://github.com/JakeWnuk/Dotfiles) - Bash installer to set up dotfiles and a custom environment locally and in Docker
 - [HIBP-578M](https://github.com/JakeWnuk/HIBP-578M) - Hash cracking rules, masks, and tokens from cracking over half a billion passwords
 - [Harp](https://github.com/JakeWnuk/Harp) - Python CLI tool for passive and active ARP discovery
