@@ -8,4 +8,5 @@ Projects:
 - [Maskcat](https://github.com/JakeWnuk/maskcat) - Golang utility tool for Hashcat Masks and Password Cracking
 - [Pi-HoleBlocklist](https://github.com/JakeWnuk/Pi-holeBlockList) - Aggregates Pi-hole Blocklists with GitHub Actions
 - [PwdStat](https://github.com/JakeWnuk/PwdStat) - Python tool for identifying systemtic password usage and analyzing password samples
+- [Saber Rules](https://github.com/JakeWnuk/saber-rules) - My Hashcat Rules
 - [SickNerd](https://github.com/JakeWnuk/SickNerd) - Python CLI tool for Google Dorking with the ability to fetch and filter dorks from GHDB and search multiple domain
