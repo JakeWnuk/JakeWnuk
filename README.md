@@ -1,3 +1,7 @@
+Media:
+- <a rel="me" href="https://infosec.exchange/@JakeWnuk">@JakeWnuk@infosec.exchange</a>
+- [Security Blog](https://JakeWnuk.com)
+
 Projects:
 - [920mPasswordMasks](https://github.com/JakeWnuk/920mPasswordMasks) - Hashcat password masks from 920 million breach passwords
 - [Dk-hc](https://github.com/JakeWnuk/dk-hc) - Golang Hashcat wrapper made for containerized cracking.
