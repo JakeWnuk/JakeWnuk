@@ -1,7 +1,7 @@
 Media:
 - <a rel="me" href="https://infosec.exchange/@JakeWnuk">@JakeWnuk@infosec.exchange</a> ([-](https://infosec.exchange/@JakeWnuk))
 - [Security Blog](https://JakeWnuk.com)
-- [Security Conferences](https://github.com/JakeWnuk/Security-Conferences) - Slides and notes from conferences I presented at
+- [Security Conferences](https://github.com/JakeWnuk/Security-Conferences)
 
 Projects:
 - [920mPasswordMasks](https://github.com/JakeWnuk/920mPasswordMasks) - Hashcat password masks from 920 million breach passwords
