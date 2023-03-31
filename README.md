@@ -11,8 +11,7 @@ Projects:
 - [Harp](https://github.com/JakeWnuk/Harp) - Python CLI tool for passive and active ARP discovery
 - [HashtopoCLI](https://github.com/JakeWnuk/HashtopoCLI) - Python CLI interface for Hashtopolis API
 - [Maskcat](https://github.com/JakeWnuk/maskcat) - Golang utility tool for Hashcat Masks and Password Cracking
-- [OpenHashAPI-Client](https://github.com/Scorpion-Security-Labs/OpenHashAPI-Server) - OpenHashAPI (OHA) is a REST API designed to store and maintain hashes and their plaintext values in a centralized database
-- [OpenHashAPI-Server](https://github.com/Scorpion-Security-Labs/OpenHashAPI-Server)
+- [OpenHashAPI](https://github.com/Scorpion-Security-Labs/OpenHashAPI-Server) - OpenHashAPI (OHA) is a REST API designed to store and maintain hashes and their plaintext values in a centralized database ([client](https://github.com/Scorpion-Security-Labs/OpenHashAPI-Client)).
 - [Pi-HoleBlocklist](https://github.com/JakeWnuk/Pi-holeBlockList) - Aggregates Pi-hole Blocklists with GitHub Actions
 - [PwdStat](https://github.com/JakeWnuk/PwdStat) - Python tool for identifying systemtic password usage and analyzing password samples
 - [Rules](https://github.com/JakeWnuk/rules) - My Hashcat Rules
