@@ -3,7 +3,7 @@ Media:
 - [Security Conferences](https://github.com/JakeWnuk/Security-Conferences)
 
 Projects:
-- [1BPasswordMasks](https://github.com/JakeWnuk/1BillionPasswordMasks) - Hashcat masks from 1 billion+ breach passwords
+- [1BPasswordMasks](https://github.com/JakeWnuk/1BPasswordMasks) - Hashcat masks from 1 billion+ breach passwords
 - [Dk-hc](https://github.com/JakeWnuk/dk-hc) - Golang Hashcat wrapper made for containerized cracking.
 - [Dotfiles](https://github.com/JakeWnuk/Dotfiles) - Bash installer to set up dotfiles and a custom environment locally and in Docker
 - [HIBP-578M](https://github.com/JakeWnuk/HIBP-578M) - Hash cracking rules, masks, and tokens from cracking over half a billion passwords
