@@ -1,5 +1,4 @@
 Media:
-- <a rel="me" href="https://infosec.exchange/@JakeWnuk">@JakeWnuk@infosec.exchange</a> ([-](https://infosec.exchange/@JakeWnuk))
 - [Security Blog](https://JakeWnuk.com)
 - [Security Conferences](https://github.com/JakeWnuk/Security-Conferences)
 
