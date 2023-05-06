@@ -7,7 +7,6 @@ Projects:
 - [Dk-hc](https://github.com/JakeWnuk/dk-hc) - Golang Hashcat wrapper made for containerized cracking.
 - [Dotfiles](https://github.com/JakeWnuk/Dotfiles) - Bash installer to set up dotfiles and a custom environment locally and in Docker
 - [HIBPv7-Resources](https://github.com/JakeWnuk/HIBPv7-Resources) - Hash cracking rules, masks, and tokens from cracking over half a billion passwords
-- [Harp](https://github.com/JakeWnuk/Harp) - Python CLI tool for passive and active ARP discovery
 - [HashtopoCLI](https://github.com/JakeWnuk/HashtopoCLI) - Python CLI interface for Hashtopolis API
 - [Maskcat](https://github.com/JakeWnuk/maskcat) - Golang utility tool for Hashcat Masks and Password Cracking
 - [OpenHashAPI](https://github.com/Scorpion-Security-Labs/OpenHashAPI-Server) - OpenHashAPI (OHA) is a REST API designed to store and maintain hashes and their plaintext values in a centralized database ([client](https://github.com/Scorpion-Security-Labs/OpenHashAPI-Client)).
