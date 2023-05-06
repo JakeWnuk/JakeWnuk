@@ -13,5 +13,6 @@ Projects:
 - [OpenHashAPI](https://github.com/Scorpion-Security-Labs/OpenHashAPI-Server) - OpenHashAPI (OHA) is a REST API designed to store and maintain hashes and their plaintext values in a centralized database ([client](https://github.com/Scorpion-Security-Labs/OpenHashAPI-Client)).
 - [Pi-HoleBlocklist](https://github.com/JakeWnuk/Pi-holeBlockList) - Aggregates Pi-hole Blocklists with GitHub Actions
 - [PwdStat](https://github.com/JakeWnuk/PwdStat) - Python tool for identifying systemtic password usage and analyzing password samples
+- [Rulecat](https://github.com/JakeWnuk/rulecat) - Golang utility tool for Hashcat Rules and Password Cracking
 - [Rules](https://github.com/JakeWnuk/rules) - My Hashcat Rules
 - [SickNerd](https://github.com/JakeWnuk/SickNerd) - Python CLI tool for Google Dorking with the ability to fetch and filter dorks from GHDB and search multiple domain
