@@ -8,7 +8,6 @@
 - [Dotfiles](https://github.com/JakeWnuk/Dotfiles) - Bash installer to set up dotfiles and a custom environment locally and in Docker
 - [Maskcat](https://github.com/JakeWnuk/maskcat) - Golang utility tool for Hashcat Masks and Password Cracking
 - [Mode](https://github.com/JakeWnuk/mode) - Golang utility tool for taking stdin and aggregating by frequency to stdout
-- [OpenHashAPI](https://github.com/Scorpion-Security-Labs/OpenHashAPI-Server) - OpenHashAPI (OHA) is a REST API designed to store and maintain hashes and their plaintext values in a centralized database.
 - [Rulecat](https://github.com/JakeWnuk/rulecat) - Golang utility tool for Hashcat Rules and Password Cracking
 
 ### Resources:
