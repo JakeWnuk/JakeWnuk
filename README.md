@@ -12,7 +12,6 @@
 
 ### Resources:
 - [1BPasswordMasks](https://github.com/JakeWnuk/1BPasswordMasks) - Hashcat masks from 1 billion+ breach passwords
-- [Pi-HoleBlocklist](https://github.com/JakeWnuk/Pi-holeBlockList) - Aggregates Pi-hole Blocklists with GitHub Actions
 - [Rules](https://github.com/JakeWnuk/rules) - My Hashcat Rules
 
 ### Archived:
