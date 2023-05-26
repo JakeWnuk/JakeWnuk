@@ -5,7 +5,6 @@
 ## Projects:
 ### Active:
 - [Dk-hc](https://github.com/JakeWnuk/dk-hc) - Golang Hashcat wrapper made for containerized cracking.
-- [Dotfiles](https://github.com/JakeWnuk/Dotfiles) - Bash installer to set up dotfiles and a custom environment locally and in Docker
 - [Maskcat](https://github.com/JakeWnuk/maskcat) - Golang utility tool for Hashcat Masks and Password Cracking
 - [Mode](https://github.com/JakeWnuk/mode) - Golang utility tool for taking stdin and aggregating by frequency to stdout
 - [Rulecat](https://github.com/JakeWnuk/rulecat) - Golang utility tool for Hashcat Rules and Password Cracking
