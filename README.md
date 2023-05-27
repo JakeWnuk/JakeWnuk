@@ -5,12 +5,14 @@
 ## Projects:
 ### Active:
 - [Dk-hc](https://github.com/JakeWnuk/dk-hc) - Golang Hashcat wrapper made for containerized cracking.
-- [Maskcat](https://github.com/JakeWnuk/maskcat) - Golang utility tool for Hashcat Masks and Password Cracking
-- [Mode](https://github.com/JakeWnuk/mode) - Golang utility tool for taking stdin and aggregating by frequency to stdout
-- [Rulecat](https://github.com/JakeWnuk/rulecat) - Golang utility tool for Hashcat Rules and Password Cracking
+- [Diffcat](https://github.com/JakeWnuk/diffcat) - Golang tool for taking stdin and printing line differences in one or more files to stdout
+- [Maskcat](https://github.com/JakeWnuk/maskcat) - Golang tool for Hashcat Masks and Password Cracking
+- [Mode](https://github.com/JakeWnuk/mode) - Golang tool for taking stdin and aggregating by frequency to stdout
+- [Rulecat](https://github.com/JakeWnuk/rulecat) - Golang tool for Hashcat Rules and Password Cracking
 
 ### Resources:
 - [1BPasswordMasks](https://github.com/JakeWnuk/1BPasswordMasks) - Hashcat masks from 1 billion+ breach passwords
+- [Dotfiles](https://github.com/JakeWnuk/Dotfiles) - Dotfiles
 - [Rules](https://github.com/JakeWnuk/rules) - My Hashcat Rules
 
 ### Archived:
