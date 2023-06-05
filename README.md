@@ -4,7 +4,6 @@
 
 ## Projects:
 ### Active:
-- [Dk-hc](https://github.com/JakeWnuk/dk-hc) - Golang Hashcat wrapper made for containerized cracking.
 - [Diffcat](https://github.com/JakeWnuk/diffcat) - Golang tool for taking stdin and printing line differences in one or more files to stdout
 - [Maskcat](https://github.com/JakeWnuk/maskcat) - Golang tool for Hashcat Masks and Password Cracking
 - [Mode](https://github.com/JakeWnuk/mode) - Golang tool for taking stdin and aggregating by frequency to stdout
