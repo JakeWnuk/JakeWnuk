@@ -4,9 +4,8 @@
 
 ## Projects:
 ### Active:
-- [Diffcat](https://github.com/JakeWnuk/diffcat) - Golang tool for taking stdin and printing line differences in one or more files to stdout
 - [Maskcat](https://github.com/JakeWnuk/maskcat) - Golang tool for Hashcat Masks and Password Cracking
-- [Mode](https://github.com/JakeWnuk/mode) - Golang tool for taking stdin and aggregating by frequency to stdout
+- [Mode](https://github.com/JakeWnuk/mode) - Golang tool for quickly working with text streams, files, and URL text
 - [Rulecat](https://github.com/JakeWnuk/rulecat) - Golang tool for Hashcat Rules and Password Cracking
 
 ### Resources:
