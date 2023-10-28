@@ -5,7 +5,6 @@
 ## Projects:
 ### Active:
 - [Maskcat](https://github.com/JakeWnuk/maskcat) - Golang tool for Hashcat Masks and Password Cracking
-- [Mode](https://github.com/JakeWnuk/mode) - Golang tool for quickly working with text streams, files, and URL text
 - [Rulecat](https://github.com/JakeWnuk/rulecat) - Golang tool for Hashcat Rules and Password Cracking
 
 ### Resources:
