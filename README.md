@@ -4,10 +4,11 @@
 
 ## Projects:
 ### Active:
-- [Maskcat](https://github.com/JakeWnuk/maskcat) - Golang tool for Hashcat Masks and Password Cracking
-- [Rulecat](https://github.com/JakeWnuk/rulecat) - Golang tool for Hashcat Rules and Password Cracking
+- [Maskcat](https://github.com/JakeWnuk/maskcat) - Golang tool for Hashcat masks and password cracking
+- [Rulecat](https://github.com/JakeWnuk/rulecat) - Golang tool for Hashcat rules and password cracking
 
 ### Resources:
 - [Dotfiles](https://github.com/JakeWnuk/Dotfiles) - Dotfiles
-- [Rules](https://github.com/JakeWnuk/rules) - My Hashcat Rules
-- [HIBPv7-Resources](https://github.com/JakeWnuk/HIBPv7-Resources) - Hash cracking rules, masks, and tokens from cracking over half a billion passwords
+- [Rules](https://github.com/JakeWnuk/rules) - My Hashcat rules
+- [HIBPv7-Resources](https://github.com/JakeWnuk/HIBPv7-Resources) - Hash cracking wordlists, masks, and tokens from cracking over half a billion passwords
+- [Pi-hole Blocklist](https://github.com/JakeWnuk/Pi-holeBlockList) - Pi-hole blocklist from community sources
