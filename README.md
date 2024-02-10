@@ -2,7 +2,7 @@
 - [Security Blog](https://JakeWnuk.com)
 - [Security Conferences](https://github.com/JakeWnuk/Security-Conferences)
 
-## Projects:
+## Tools:
 ### Active:
 - [Maskcat](https://github.com/JakeWnuk/maskcat) - Golang tool for Hashcat masks and password cracking
 - [Rulecat](https://github.com/JakeWnuk/rulecat) - Golang tool for Hashcat rules and password cracking
