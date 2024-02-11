@@ -6,6 +6,7 @@
 ### Tools:
 - [Maskcat](https://github.com/JakeWnuk/maskcat) - Golang tool for Hashcat masks and password cracking
 - [Rulecat](https://github.com/JakeWnuk/rulecat) - Golang tool for Hashcat rules and password cracking
+- [Mode](https://github.com/JakeWnuk/mode) - Golang tool for aggregating and frequency sorting text from multiple sources for password cracking.
 
 ### Resources:
 - [Dotfiles](https://github.com/JakeWnuk/Dotfiles) - Dotfiles
