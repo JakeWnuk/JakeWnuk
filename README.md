@@ -11,5 +11,6 @@
 ### Resources:
 - [Dotfiles](https://github.com/JakeWnuk/Dotfiles) - Dotfiles
 - [Rules](https://github.com/JakeWnuk/rules) - My Hashcat rules
+- [Docker-Hashcat](https://github.com/JakeWnuk/Docker-Hashcat) - Docker wrapper for Hashcat
 - [HIBPv7-Resources](https://github.com/JakeWnuk/HIBPv7-Resources) - Hash cracking wordlists, masks, and tokens from cracking over half a billion passwords
 - [Pi-hole Blocklist](https://github.com/JakeWnuk/Pi-holeBlockList) - Pi-hole blocklist from community sources
