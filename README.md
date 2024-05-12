@@ -15,3 +15,4 @@
 - [DNS Blocklist](https://github.com/JakeWnuk/DNS-BlockList) - My DNS blocklist.
 - [Dotfiles](https://github.com/JakeWnuk/Dotfiles) - My Dotfiles.
 - [Container-Hashcat](https://github.com/JakeWnuk/Container-Hashcat) - My HC Container.
+- [Gradient-Spirograph](https://github.com/JakeWnuk/Gradient-Spirograph) - Make PNG spirographs with two colors!
