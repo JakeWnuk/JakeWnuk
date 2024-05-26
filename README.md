@@ -3,7 +3,7 @@
 - [Security Conferences](https://github.com/JakeWnuk/Security-Conferences)
 
 ### Active:
-- [ptt](https://github.com/JakeWnuk/ptt) - Password Transformation Tool (ptt) is a versatile utility designed for password cracking. It facilitates the creation of custom rules and transformations, as well as the generation of wordlists. This tool supports processing data from files, URLs, and standard input, streamlining cracking workflows. 🆕
+- [ptt](https://github.com/JakeWnuk/ptt) - Password Transformation Tool (ptt) is a versatile utility designed for password cracking. It facilitates the creation of custom rules and transformations, as well as the generation of wordlists. This tool supports processing data from files, URLs, and standard input, streamlining cracking workflows. 🎉
 
 ### Stable:
 - [Maskcat](https://github.com/JakeWnuk/maskcat) - Maskcat is a program for creating and working with password masks for password cracking. 
