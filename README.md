@@ -14,5 +14,4 @@
 - [Rules](https://github.com/JakeWnuk/rules) - My Hashcat rules.
 - [DNS Blocklist](https://github.com/JakeWnuk/DNS-BlockList) - My DNS blocklist.
 - [Container-Hashcat](https://github.com/JakeWnuk/Container-Hashcat) - My HC Container.
-- [Gradient-Spirograph](https://github.com/JakeWnuk/Gradient-Spirograph) - Make PNG spirographs with two colors!
 - [HIBPv7 Resources](https://github.com/JakeWnuk/HIBPv7-Resources) - Hash cracking wordlists, masks, and tokens taken from HIBPv7.
