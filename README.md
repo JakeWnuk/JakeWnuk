@@ -8,5 +8,4 @@
 ### Resources:
 - [Dotfiles](https://github.com/JakeWnuk/Dotfiles) - My Dotfiles.
 - [Rules](https://github.com/JakeWnuk/rules) - My Hashcat rules.
-- [DNS Blocklist](https://github.com/JakeWnuk/DNS-BlockList) - My DNS blocklist.
 - [Container-Hashcat](https://github.com/JakeWnuk/Container-Hashcat) - My HC Container.
