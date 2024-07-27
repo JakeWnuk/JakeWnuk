@@ -9,3 +9,7 @@
 - [Dotfiles](https://github.com/JakeWnuk/Dotfiles) - My Dotfiles.
 - [Rules](https://github.com/JakeWnuk/rules) - My Hashcat rules.
 - [Container-Hashcat](https://github.com/JakeWnuk/Container-Hashcat) - My HC Container.
+
+> [!NOTE]
+> Looking for `rulecat` or `maskcat`? These tools were wrapped into `ptt` with upgrades. 
+
