@@ -4,6 +4,7 @@
 
 ## Repositories:
 - [ptt](https://github.com/JakeWnuk/ptt) - Password Transformation Tool (ptt) is a versatile utility designed for password cracking. It facilitates the creation of custom rules and transformations, as well as the generation of wordlists. This tool supports processing data from files, URLs, and standard input, streamlining cracking workflows.
+- [OpenHashAPI](https://github.com/Scorpion-Security-Labs/OpenHashAPI) - OpenHashAPI provides a secure API method of communicating hashes and enables lightweight workflows for security practitioners and enthusiasts. 
 - [Rules](https://github.com/JakeWnuk/rules) - My Hashcat rules.
 
 ---
